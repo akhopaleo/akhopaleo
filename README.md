@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web applications, computer graphics
 - 🌱 I’m currently learning Web development
 <!--- 💞️ I’m looking to collaborate on anything --->
-- 📫 How to reach me: @arfuledo on twitter
+<!--- 📫 How to reach me: @arfuledo on twitter-->
 
 <!---
 akhopaleo/akhopaleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
