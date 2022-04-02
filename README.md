@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhopaleo
 - 👀 I’m interested in Web applications, computer graphics
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Blockchain dev
 <!--- 💞️ I’m looking to collaborate on anything --->
 <!--- 📫 How to reach me: @arfuledo on twitter-->
 
